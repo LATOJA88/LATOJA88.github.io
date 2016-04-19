@@ -87,7 +87,7 @@ var _hmt = _hmt || [];
 
 
 
-<p><img src="./推荐-涵曦LATOJA 纤体乳 纤体霜 涵曦婴_files/TB2RfhNjpXXXXboXpXXXXXXXXXX_!!47817765.jpg" style="display: block;height:100%;width:100%;"></p>
+<p><img src="./TB2RfhNjpXXXXboXpXXXXXXXXXX_!!47817765.jpg" style="display: block;height:100%;width:100%;"></p>
 
 
 <p align="center">&nbsp;</p>
